@@ -1,0 +1,9 @@
+:root {
+    --bs-body-color: #ffffff;
+    --bs-body-bg: #010001;
+}
+
+.tall {
+    min-height: 150px;
+    /* Adjust the height as needed */
+}
